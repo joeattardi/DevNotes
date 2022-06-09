@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "35cbed56f2c40597",
+    "type": "split",
+    "children": [
+      {
+        "id": "724a7946f29e3db2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Node.js/Node.js debugging.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb4edd247fad2147",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d746128f3bd3792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "676abc2f5b7949b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "334a6ba5b8187744",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "895e3f246b1bcad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "158c907e312c2400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e35c5772934c125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node.js/Node.js debugging.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b921f660fc0b4085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285,
+    "collapsed": true
+  },
+  "active": "724a7946f29e3db2",
+  "lastOpenFiles": [
+    "Node.js/Node.js debugging.md",
+    "React/useEffect.md"
+  ]
+}
