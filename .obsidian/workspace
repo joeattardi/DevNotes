@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/Node.js debugging.md",
+            "file": "Scripting/Making interactive scripts.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Node.js debugging.md",
+                "file": "Scripting/Making interactive scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "724a7946f29e3db2",
   "lastOpenFiles": [
+    "Scripting/zsh colors.md",
     "Node.js/Node.js debugging.md",
     "React/useEffect.md"
   ]
