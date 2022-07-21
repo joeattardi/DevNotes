@@ -11,7 +11,7 @@
           "state": {
             "file": "Scripting/Making interactive scripts.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
