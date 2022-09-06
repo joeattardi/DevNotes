@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scripting/Making interactive scripts.md",
-            "mode": "source",
+            "file": "Git/Git cheat sheet.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripting/Making interactive scripts.md",
+                "file": "Git/Git cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,11 @@
   },
   "active": "724a7946f29e3db2",
   "lastOpenFiles": [
+    "Publishing with pandoc.md",
+    "React/Remix/Examples.md",
+    "React/Remix/General concepts.md",
     "Scripting/zsh colors.md",
+    "Scripting/Making interactive scripts.md",
     "Node.js/Node.js debugging.md",
     "React/useEffect.md"
   ]
