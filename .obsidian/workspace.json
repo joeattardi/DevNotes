@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "35cbed56f2c40597",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1da2dff9243e89d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e96aeb35c0258c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/LLMs/LLM providers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb4edd247fad2147",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d746128f3bd3792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "676abc2f5b7949b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "334a6ba5b8187744",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc52629a2ba5c666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "895e3f246b1bcad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "158c907e312c2400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e35c5772934c125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/LLMs/LLM providers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b921f660fc0b4085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "68e96aeb35c0258c",
+  "lastOpenFiles": [
+    "AI/AI tools.md",
+    "AI/LLMs/LLM providers.md",
+    "AI/LLMs/Vercel AI SDK.md",
+    "AI/LLMs/Running LLMs locally.md",
+    "Node.js/Node.js debugging.md",
+    "AI/LLMs",
+    "AI",
+    "Publishing with pandoc.md",
+    "React/useEffect.md",
+    "Git/Git cheat sheet.md",
+    "Go/Go basics.md",
+    "Scripting/zsh colors.md",
+    "Scripting/Making interactive scripts.md",
+    "Go",
+    "React/Remix/General concepts.md",
+    "React/Remix/Examples.md"
+  ]
+}

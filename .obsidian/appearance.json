@@ -1,5 +1,6 @@
 {
   "theme": "system",
   "textFontFamily": "",
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": ""
 }
